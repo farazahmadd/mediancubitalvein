@@ -1,0 +1,26 @@
+<annotation>
+	<folder>project</folder>
+	<filename>20220220_144637.jpg</filename>
+	<path>D:\project\20220220_144637.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vein</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1562</xmin>
+			<ymin>1128</ymin>
+			<xmax>1862</xmax>
+			<ymax>1238</ymax>
+		</bndbox>
+	</object>
+</annotation>
